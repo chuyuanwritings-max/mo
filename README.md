@@ -1,6 +1,6 @@
 # 墨
 
-秦陵墨家工匠的肉鸽原型（4.9）。
+秦陵墨家工匠的肉鸽原型（4.10）。
 
 **在线玩：** https://chuyuanwritings-max.github.io/mo/
 
